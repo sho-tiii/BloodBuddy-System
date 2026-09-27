@@ -1,0 +1,6 @@
+{
+  "name": "BloodBuddy",
+  "description": "A real-time community blood matching platform connecting people in urgent need with nearby potential donors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

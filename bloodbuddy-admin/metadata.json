@@ -1,0 +1,6 @@
+{
+  "name": "BloodBuddy Admin",
+  "description": "Administrator portal for BloodBuddy platform management, community account oversight, blood request oversight, and moderation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
